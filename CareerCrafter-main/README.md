@@ -112,25 +112,25 @@ Team Members:
 
 ## Authors
 
-### 1. Darshan S. Kagi
-- **Email:** darshankagi04@gmail.com
-- **LinkedIn:** [Darshan Kagi](https://www.linkedin.com/in/darshan-kagi-938836255)
-- **GitHub:** [DarshanKagi](https://github.com/DarshanKagi)
-
-### 2. P Sharath Kumar Reddy
+### 1. P Sharath Kumar Reddy
 - **Email:** sharathkumarr924@gmail.com
 - **LinkedIn:** [Sharath Kumar Reddy](https://www.linkedin.com/in/sharath-kumar-reddy-software-engineer)
 - **GitHub:** [sharath-66b6](https://github.com/sharath-66b6)
 
+### 2. Darshan S. Kagi
+- **Email:** darshankagi04@gmail.com
+- **LinkedIn:** [Darshan Kagi](https://www.linkedin.com/in/darshan-kagi-938836255)
+- **GitHub:** [DarshanKagi](https://github.com/DarshanKagi)
+
 
 ## Connect with Me
 
-- LinkedIn: [Darshan Kagi](https://www.linkedin.com/in/darshan-kagi-938836255)
-- GitHub: [DarshanKagi](https://github.com/DarshanKagi)
+- LinkedIn: [Sharath Kumar Reddy](https://www.linkedin.com/in/sharath-kumar-reddy-software-engineer)
+- GitHub: [sharath-66b6](https://github.com/sharath-66b6)
 
 
 ---
 
-Developed with ❤️ by Darshan S Kagi, P Sharath Kumar Reddy and team
+Developed with ❤️ by P Sharath Kumar Reddy, Darshan S Kagi and team
 
 ---
